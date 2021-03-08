@@ -1,0 +1,8 @@
+Running frequent and targeted crawls of your website is a key part of improving it’s technical health and improving rankings in organic search. In this guide, you’ll learn how to a crawl a website efficiently and effectively with DeepCrawl. The six steps to crawling a website include:
+
+            1.Configuring the URL sources
+            2.Understanding the domain structure
+            3.Running a test crawl
+            4.Adding crawl restrictions
+            5.Testing your changes
+            6.Running your crawl
